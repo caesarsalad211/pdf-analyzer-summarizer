@@ -1,0 +1,10 @@
+{
+  "name": "PDF Analyzer",
+  "short_name": "PDFAnalyzer",
+  "description": "AI-powered PDF analysis, summarization, and key point extraction",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0d9488",
+  "icons": []
+}
